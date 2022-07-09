@@ -10,3 +10,10 @@ The Scripts ONLY Works In Windows :
 - Windows 11
 
 Others Version Windows 8 Or Below Will Not Work (Including Modded Windows)
+
+- Quick Note :
+> Please Set The ExecutionPolicy to Unrestricted First!
+
+> Set-ExecutionPolicy -Scope CurrentUser Unrestricted 
+
+> To See If It Works : Get-ExecutionPolicy CurrentUser
